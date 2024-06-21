@@ -34,4 +34,8 @@
 #define RAW_USAGE_ID 0x61
 #define LAYER_STATE_16BIT
 #define COMBO_COUNT 3
+#define RGBLIGHT_LAYERS
+#define RGBLIGHT_LAYER_BLINK
 
+#define RGB_LED_COUNT 9
+#define RGBLIGHT_LED_MAP { 6, 5, 4, 3, 7, 8, 1, 2, 0 }
